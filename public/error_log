@@ -1,0 +1,7 @@
+[18-Jul-2022 12:23:37 UTC] PHP Fatal error:  Cannot use App\Models\TableCarts as TableCarts because the name is already in use in /home/planypbu/jafranrestaurant.com/app/Http/Controllers/ProductController.php on line 15
+[20-Jul-2022 04:59:18 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\TableController::searchFood() in /home/planypbu/jafranrestaurant.com/app/Http/Controllers/TableController.php on line 135
+[20-Jul-2022 06:40:00 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\TableController::searchFood3() in /home/planypbu/jafranrestaurant.com/app/Http/Controllers/TableController.php on line 356
+[20-Jul-2022 07:58:05 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\TableController::searchFood2() in /home/planypbu/jafranrestaurant.com/app/Http/Controllers/TableController.php on line 136
+[20-Jul-2022 07:59:56 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\TableController::searchFood3() in /home/planypbu/jafranrestaurant.com/app/Http/Controllers/TableController.php on line 248
+[20-Jul-2022 08:00:27 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\TableController::searchFood3() in /home/planypbu/jafranrestaurant.com/app/Http/Controllers/TableController.php on line 248
+[20-Jul-2022 08:01:27 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\TableController::searchFood3() in /home/planypbu/jafranrestaurant.com/app/Http/Controllers/TableController.php on line 248
